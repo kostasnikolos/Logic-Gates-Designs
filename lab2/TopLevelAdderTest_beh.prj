@@ -1,0 +1,5 @@
+vhdl work "Sum.vhd"
+vhdl work "LookAhead.vhd"
+vhdl work "GeneratePropagate.vhd"
+vhdl work "TopLevelAdder.vhd"
+vhdl work "TopLevelAdderTest.vhd"

@@ -1,0 +1,2 @@
+vhdl isim_temp "GeneratePropagate.vhd"
+vhdl isim_temp "GeneratePropagateTest.vhd"

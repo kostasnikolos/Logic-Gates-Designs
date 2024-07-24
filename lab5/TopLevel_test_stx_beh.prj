@@ -1,0 +1,4 @@
+vhdl isim_temp "ipcore_dir/memory.vhd"
+vhdl isim_temp "FSM_swsto.vhd"
+vhdl isim_temp "TopLevel.vhd"
+vhdl isim_temp "TopLevel_test.vhd"

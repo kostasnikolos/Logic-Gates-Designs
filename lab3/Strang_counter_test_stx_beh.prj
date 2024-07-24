@@ -1,0 +1,2 @@
+vhdl isim_temp "Strange_Counter.vhd"
+vhdl isim_temp "Strang_counter_test.vhd"

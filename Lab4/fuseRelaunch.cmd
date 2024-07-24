@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Documents/Lab4/FSM_Mealy_TestBench_isim_beh.exe" -prj "/home/ise/Documents/Lab4/FSM_Mealy_TestBench_beh.prj" "work.FSM_Mealy_TestBench" 

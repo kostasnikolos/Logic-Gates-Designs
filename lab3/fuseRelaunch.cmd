@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Documents/lab3/Strange_Counter_test_isim_beh.exe" -prj "/home/ise/Documents/lab3/Strange_Counter_test_beh.prj" "work.Strange_Counter_test" 

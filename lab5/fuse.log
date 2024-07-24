@@ -1,0 +1,33 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/Documents/lab5/TopLevel_test_isim_beh.exe -prj /home/ise/Documents/lab5/TopLevel_test_beh.prj work.TopLevel_test 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/Documents/lab5/ipcore_dir/memory.vhd" into library work
+Parsing VHDL file "/home/ise/Documents/lab5/FSM_swsto.vhd" into library work
+Parsing VHDL file "/home/ise/Documents/lab5/TopLevel.vhd" into library work
+Parsing VHDL file "/home/ise/Documents/lab5/TopLevel_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 100124 KB
+Fuse CPU Usage: 1700 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity FSM_swsto [fsm_swsto_default]
+Compiling package textio
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package std_logic_textio
+Compiling architecture output_stage_behavioral of entity BLK_MEM_GEN_V7_3_output_stage [\BLK_MEM_GEN_V7_3_output_stage("...]
+Compiling architecture softecc_output_reg_stage_behavioral of entity BLK_MEM_GEN_V7_3_softecc_output_reg_stage [\BLK_MEM_GEN_V7_3_softecc_output...]
+Compiling architecture mem_module_behavioral of entity BLK_MEM_GEN_V7_3_mem_module [\BLK_MEM_GEN_V7_3_mem_module("bl...]
+Compiling architecture behavioral of entity BLK_MEM_GEN_V7_3 [\BLK_MEM_GEN_V7_3("blk_mem_gen_v...]
+Compiling architecture memory_a of entity memory [memory_default]
+Compiling architecture behavioral of entity TopLevel [toplevel_default]
+Compiling architecture behavior of entity toplevel_test
+Time Resolution for simulation is 1ps.
+Compiled 21 VHDL Units
+Built simulation executable /home/ise/Documents/lab5/TopLevel_test_isim_beh.exe
+Fuse Memory Usage: 119528 KB
+Fuse CPU Usage: 2220 ms
+GCC CPU Usage: 2360 ms

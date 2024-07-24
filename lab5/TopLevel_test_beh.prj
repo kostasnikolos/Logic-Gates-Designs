@@ -1,0 +1,4 @@
+vhdl work "ipcore_dir/memory.vhd"
+vhdl work "FSM_swsto.vhd"
+vhdl work "TopLevel.vhd"
+vhdl work "TopLevel_test.vhd"

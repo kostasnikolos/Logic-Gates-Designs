@@ -1,0 +1,2 @@
+vhdl work "FSM_Mealy.vhd"
+vhdl work "FSM_Mealy_TestBench.vhd"

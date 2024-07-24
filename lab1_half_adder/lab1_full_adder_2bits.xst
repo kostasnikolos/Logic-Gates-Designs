@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Documents/lab1_half_adder/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Documents/lab1_half_adder/xst"
+elaborate
+-ifn lab1_full_adder_2bits.prj
+-ifmt mixed

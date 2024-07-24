@@ -1,0 +1,2 @@
+vhdtdtfi -lib work lab1_half_adder.vhd -lib work lab1_full_adder.vhd -lib work lab1_full_adder_2bits.vhd -prj lab1_half_adder -o lab1_full_adder_2bits.spl -module lab1_full_adder_2bits -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e lab1_full_adder_2bits.spl /home/ise/Documents/lab1_half_adder/lab1_full_adder_2bits.sym 

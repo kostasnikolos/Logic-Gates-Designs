@@ -1,0 +1,3 @@
+work	"FSM_swsto.vhd"
+work	"TopLevel.vhd"
+work	"ipcore_dir/memory.vhd"

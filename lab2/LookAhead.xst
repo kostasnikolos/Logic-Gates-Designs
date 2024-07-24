@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/Documents/lab2/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/Documents/lab2/xst"
+elaborate
+-ifn LookAhead.prj
+-ifmt mixed

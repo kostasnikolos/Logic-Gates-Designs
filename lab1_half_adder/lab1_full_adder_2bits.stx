@@ -1,0 +1,40 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/ise/Documents/lab1_half_adder/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/ise/Documents/lab1_half_adder/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.04 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/ise/Documents/lab1_half_adder/lab1_full_adder_2bits.vhd" in Library work.
+WARNING:HDLParsers:3530 - Time stamp of file "/home/ise/Documents/lab1_half_adder/lab1_full_adder_2bits.vhd" is newer than current system time.
+Entity <lab1_full_adder_2bits> compiled.
+ERROR:HDLParsers:164 - "/home/ise/Documents/lab1_half_adder/lab1_full_adder_2bits.vhd" Line 63. parse error, unexpected IDENTIFIER, expecting COMMA or CLOSEPAR
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.06 secs
+ 
+--> 
+
+
+Total memory usage is 566656 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

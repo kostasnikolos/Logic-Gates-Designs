@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Documents/lab1_half_adder/lab1_full_ader_test_isim_beh.exe" -prj "/home/ise/Documents/lab1_half_adder/lab1_full_ader_test_beh.prj" "work.lab1_full_ader_test" 
